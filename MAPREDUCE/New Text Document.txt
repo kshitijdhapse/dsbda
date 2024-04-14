@@ -1,0 +1,1 @@
+make sure to export java files after adding hadoop external files as a jar file and then use the images given in the folder 
